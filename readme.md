@@ -7,6 +7,12 @@ An intelligent study assistant designed to help students master new topics throu
 *   **Tiered Leaderboard:** Compete with peers! Scores are categorized by difficulty levels (Green/Yellow/Red tiers) to ensure fair comparisons.
 *   **Dynamic Scoreboard:** Receive instant feedback upon quiz submission with progress tracking.
 
+## 📸 Screenshots
+
+![Quiz Flow](assets/img_flow1.jpeg)
+![Scoreboard](assets/img_flow2.jpeg)
+![Scoreboard](assets/img_flow3.jpeg)
+
 ## 🛠 Tech Stack
 *   **Frontend:** React, Tailwind CSS (Designed with **Stitch**)
 *   **Backend:** Node.js, Express
@@ -22,8 +28,9 @@ An intelligent study assistant designed to help students master new topics throu
 ## ⚙️ Setup
 1. Clone the repository.
 2. Install dependencies:
-   ```bash
-   npm install
+    ```bash
+    npm install
+    ```
 
 ## 🔌 API Endpoints
 
