@@ -19,6 +19,16 @@ An intelligent study assistant designed to help students master new topics throu
 3.  **Analyze:** View your results on the Scoreboard.
 4.  **Compete:** Save your score to the global Leaderboard to climb the ranks in your specific tier.
 
+## Screenshots
+
+**Quiz Generation Flow:**
+![Quiz Flow](assets/img_flow1.jpeg)
+![Quiz Flow](assets/img_flow2.jpeg)
+![Quiz Flow](assets/img_flow3.jpeg)
+
+
+
+
 ## ⚙️ Setup
 1. Clone the repository.
 2. Install dependencies:
